@@ -4,7 +4,7 @@ Welcome to our group project repository for the Alchemy Learn Solidity course! T
 
 ## Group Members ##
 
-Beka Tilahun UGR/22588/13
+Beka Tilahun - UGR/22588/13
 
 Esrael Berhanu - UGR/22615/13
 
